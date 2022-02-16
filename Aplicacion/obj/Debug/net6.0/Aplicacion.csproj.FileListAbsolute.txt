@@ -1,0 +1,17 @@
+C:\ProyectoCore\Aplicacion\bin\Debug\net6.0\Aplicacion.deps.json
+C:\ProyectoCore\Aplicacion\bin\Debug\net6.0\Aplicacion.dll
+C:\ProyectoCore\Aplicacion\bin\Debug\net6.0\ref\Aplicacion.dll
+C:\ProyectoCore\Aplicacion\bin\Debug\net6.0\Aplicacion.pdb
+C:\ProyectoCore\Aplicacion\bin\Debug\net6.0\Dominio.dll
+C:\ProyectoCore\Aplicacion\bin\Debug\net6.0\Persistencia.dll
+C:\ProyectoCore\Aplicacion\bin\Debug\net6.0\Dominio.pdb
+C:\ProyectoCore\Aplicacion\bin\Debug\net6.0\Persistencia.pdb
+C:\ProyectoCore\Aplicacion\obj\Debug\net6.0\Aplicacion.csproj.AssemblyReference.cache
+C:\ProyectoCore\Aplicacion\obj\Debug\net6.0\Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProyectoCore\Aplicacion\obj\Debug\net6.0\Aplicacion.AssemblyInfoInputs.cache
+C:\ProyectoCore\Aplicacion\obj\Debug\net6.0\Aplicacion.AssemblyInfo.cs
+C:\ProyectoCore\Aplicacion\obj\Debug\net6.0\Aplicacion.csproj.CoreCompileInputs.cache
+C:\ProyectoCore\Aplicacion\obj\Debug\net6.0\Aplicacion.csproj.CopyComplete
+C:\ProyectoCore\Aplicacion\obj\Debug\net6.0\Aplicacion.dll
+C:\ProyectoCore\Aplicacion\obj\Debug\net6.0\ref\Aplicacion.dll
+C:\ProyectoCore\Aplicacion\obj\Debug\net6.0\Aplicacion.pdb

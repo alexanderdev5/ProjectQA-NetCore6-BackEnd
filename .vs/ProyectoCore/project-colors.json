@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ed65ebac-e5fd-44e8-8a42-457820e27f54": {
+      "ProjectGuid": "ed65ebac-e5fd-44e8-8a42-457820e27f54",
+      "DisplayName": "WebAPI",
+      "ColorIndex": 0
+    },
+    "45b41c81-c771-438a-ad0e-5175febe87e6": {
+      "ProjectGuid": "45b41c81-c771-438a-ad0e-5175febe87e6",
+      "DisplayName": "Persistencia",
+      "ColorIndex": 1
+    },
+    "c45d7252-0b82-4cb7-88d5-a407514bbf8a": {
+      "ProjectGuid": "c45d7252-0b82-4cb7-88d5-a407514bbf8a",
+      "DisplayName": "Dominio",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}
